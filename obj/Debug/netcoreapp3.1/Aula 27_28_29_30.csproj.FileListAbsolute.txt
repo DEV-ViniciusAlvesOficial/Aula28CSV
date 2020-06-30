@@ -1,0 +1,26 @@
+C:\Users\Usuario\Documents\Projetos\Aula 27_28_29_30\obj\Debug\netcoreapp3.1\Aula 27_28_29_30.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Projetos\Aula 27_28_29_30\obj\Debug\netcoreapp3.1\Aula 27_28_29_30.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projetos\Aula 27_28_29_30\obj\Debug\netcoreapp3.1\Aula 27_28_29_30.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Projetos\Aula 27_28_29_30\obj\Debug\netcoreapp3.1\Aula 27_28_29_30.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Projetos\Aula 27_28_29_30\bin\Debug\netcoreapp3.1\Aula 27_28_29_30.exe
+C:\Users\Usuario\Documents\Projetos\Aula 27_28_29_30\bin\Debug\netcoreapp3.1\Aula 27_28_29_30.deps.json
+C:\Users\Usuario\Documents\Projetos\Aula 27_28_29_30\bin\Debug\netcoreapp3.1\Aula 27_28_29_30.runtimeconfig.json
+C:\Users\Usuario\Documents\Projetos\Aula 27_28_29_30\bin\Debug\netcoreapp3.1\Aula 27_28_29_30.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Projetos\Aula 27_28_29_30\bin\Debug\netcoreapp3.1\Aula 27_28_29_30.dll
+C:\Users\Usuario\Documents\Projetos\Aula 27_28_29_30\bin\Debug\netcoreapp3.1\Aula 27_28_29_30.pdb
+C:\Users\Usuario\Documents\Projetos\Aula 27_28_29_30\obj\Debug\netcoreapp3.1\Aula 27_28_29_30.dll
+C:\Users\Usuario\Documents\Projetos\Aula 27_28_29_30\obj\Debug\netcoreapp3.1\Aula 27_28_29_30.pdb
+C:\Users\Usuario\Documents\Projetos\Aula 27_28_29_30\obj\Debug\netcoreapp3.1\Aula 27_28_29_30.genruntimeconfig.cache
+C:\Users\ale\Desktop\Senai\Aula28CSV\bin\Debug\netcoreapp3.1\Aula 27_28_29_30.exe
+C:\Users\ale\Desktop\Senai\Aula28CSV\bin\Debug\netcoreapp3.1\Aula 27_28_29_30.deps.json
+C:\Users\ale\Desktop\Senai\Aula28CSV\bin\Debug\netcoreapp3.1\Aula 27_28_29_30.runtimeconfig.json
+C:\Users\ale\Desktop\Senai\Aula28CSV\bin\Debug\netcoreapp3.1\Aula 27_28_29_30.runtimeconfig.dev.json
+C:\Users\ale\Desktop\Senai\Aula28CSV\bin\Debug\netcoreapp3.1\Aula 27_28_29_30.dll
+C:\Users\ale\Desktop\Senai\Aula28CSV\bin\Debug\netcoreapp3.1\Aula 27_28_29_30.pdb
+C:\Users\ale\Desktop\Senai\Aula28CSV\obj\Debug\netcoreapp3.1\Aula 27_28_29_30.csprojAssemblyReference.cache
+C:\Users\ale\Desktop\Senai\Aula28CSV\obj\Debug\netcoreapp3.1\Aula 27_28_29_30.AssemblyInfoInputs.cache
+C:\Users\ale\Desktop\Senai\Aula28CSV\obj\Debug\netcoreapp3.1\Aula 27_28_29_30.AssemblyInfo.cs
+C:\Users\ale\Desktop\Senai\Aula28CSV\obj\Debug\netcoreapp3.1\Aula 27_28_29_30.csproj.CoreCompileInputs.cache
+C:\Users\ale\Desktop\Senai\Aula28CSV\obj\Debug\netcoreapp3.1\Aula 27_28_29_30.dll
+C:\Users\ale\Desktop\Senai\Aula28CSV\obj\Debug\netcoreapp3.1\Aula 27_28_29_30.pdb
+C:\Users\ale\Desktop\Senai\Aula28CSV\obj\Debug\netcoreapp3.1\Aula 27_28_29_30.genruntimeconfig.cache
